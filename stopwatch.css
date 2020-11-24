@@ -1,0 +1,24 @@
+.wrapper{
+        text-align: center;
+        margin: auto;
+        width: 60%;
+        border: 3px solid #73AD21;
+        padding: 100px;
+        background-color: beige;
+}
+h1{
+    font-size: 51px;
+}
+p{
+    font-size: 30px;
+}
+body{
+    padding-top: 150px;
+}
+button{
+    border-radius: 90px;
+    padding: 14px 40px;
+}
+button:hover{
+    background-color: grey;
+}
